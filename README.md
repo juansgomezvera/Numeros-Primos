@@ -1,4 +1,3 @@
-# Numeros-Primos-y-Palindromas
-Dos programas: 
-  -Uno para la descomposición de números en sus factores primos(dp.exe).
-  -Otro para la identificación de palabras palíndromas (papa.exe).
+# Numeros-Primos
+Programa para descomponer un numero en sus factores primos.
+
